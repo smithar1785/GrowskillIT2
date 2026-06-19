@@ -1,4 +1,6 @@
 i am master2
 login1
 payment1
+payment1
+goolepay
 
